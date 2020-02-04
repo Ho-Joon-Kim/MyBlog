@@ -1,0 +1,163 @@
+body{
+    background: linear-gradient(153.07deg, #6A11CB 17.23%, #2575FC 91.45%);
+    background-blend-mode: multiply;
+}
+/**/
+.mfont{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 35px;
+    line-height: 41px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: rgb(255, 255, 255);
+}
+
+.home{
+    position: absolute;
+    width: 178px;
+    height: 49px;
+    left: 966px;
+    top: 22px;
+}
+
+.works{
+    position: absolute;
+    width: 178px;
+    height: 49px;
+    left: 1177px;
+    top: 22px;
+}
+
+.posts{
+    position: absolute;
+    width: 178px;
+    height: 49px;
+    left: 1388px;
+    top: 22px;
+}
+
+.about{
+    position: absolute;
+    width: 227px;
+    height: 49px;
+    left: 1566px;
+    top: 22px;
+}
+
+.search{
+    position: absolute;
+    width: 82.58px;
+    height: 35.05px;
+    left: 1783px;
+    top: 29px;
+}
+/**/
+.baricon{
+    position: absolute;
+    width: 60px;
+    height: 30px;
+    left: 20px;
+    top: 20px;
+}
+/**/
+.github{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 903px;
+    bottom: 5px;    
+}
+
+.gmail{
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    left: 966px;
+    bottom: 5px;    
+}
+/**/
+.name{
+    position: relative;
+    width: 330px;
+    height: 49px;
+    left: 219px;
+    top: 23px;
+
+    font-family: Noto Sans KR;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 50px;
+    line-height: 49px;
+    align-items: center;
+    text-align: center;
+
+    color: #000000;
+}
+
+.many{
+    position: relative;
+    width: 676px;
+    height: 77px;
+    left: 46px;
+    top: 33px;
+    
+    font-family: Noto Sans KR;
+    font-style: normal;
+    font-weight: 100;
+    font-size: 70px;
+    line-height: 101px;
+    align-items: center;
+    text-align: center;
+    
+    color: #000000;
+}
+
+.block_bar{
+    position: relative;
+    width: 675px;
+    height: 3px;
+    left: 46.5px;
+    top: 40px;
+    
+    background: #000000;
+}
+
+.block1{
+    position: absolute;
+    width: 768px;
+    height: 210px;
+    left: 576px;
+    top: 155px;
+
+    background: #FFFFFF;
+    box-shadow: -1px 5px 5px rgba(0, 0, 0, 0.43); 
+    border-radius: 10px;
+}
+
+.block2{
+    position: absolute;
+    width: 768px;
+    height: 210px;
+    left: 576px;
+    top: 392px;
+    
+    background: #FFFFFF;
+    box-shadow: -1px 5px 5px rgba(0, 0, 0, 0.43);
+    border-radius: 10px;
+}
+
+.block3{
+    position: absolute;
+    width: 768px;
+    height: 210px;
+    left: 576px;
+    top: 629px;
+    
+    background: #FFFFFF;
+    box-shadow: -1px 5px 5px rgba(0, 0, 0, 0.43);
+    border-radius: 10px;
+}
