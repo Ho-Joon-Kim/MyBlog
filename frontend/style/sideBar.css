@@ -1,0 +1,117 @@
+body{
+    background: rgba(0, 0, 0, 0.5);
+}
+
+.barBackground{
+    position: absolute;
+    width: 396px;
+    height: 100%;
+    left: 0px;
+    top: 0px;
+
+    background: rgba(0, 0, 0, 0.66);
+}
+
+.logo{
+    position: relative;
+    width: 160px;
+    height: 120px;
+    left: 7px;
+    top: 11px;
+}
+
+.login_box{
+    position: absolute;
+    width: 203px;
+    height: 120px;
+    left: 182px;
+    top: 11px;
+    
+    background: #FFFFFF;
+    box-shadow: -1px 5px 5px rgba(0, 0, 0, 0.43);
+    border-radius: 5px;
+}
+
+.login{
+    position: relative;
+    width: 192px;
+    height: 33px;
+    left: 5px;
+    top: 5px;
+    margin-bottom: 3px;
+
+    background: #2D2D2D;
+    box-shadow: -1px 5px 5px rgba(0, 0, 0, 0.43);
+    border-radius: 5px;
+    border: rgba(255, 255, 255, 0);
+
+    font-family: Roboto;
+    font-style: thin;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 33px;
+    align-items: left;
+    text-align: left;
+
+    color: rgb(255, 255, 255);
+}
+
+.backEnd{
+    position: relative;
+    left: 11px;
+    top: 15px;
+}
+
+.expressJs{
+    position: relative;
+    left: 5px;
+    top: 15px;
+}
+
+.typeScript{
+    position: relative;
+    left: 5px;
+    top: 15px;
+}
+
+.frontEnd{
+    position: relative;
+    left: 11px;
+    top: 15px;
+}
+
+.front{
+    position: relative;
+    left: 5px;
+    top: 15px;
+}
+
+.react{
+    position: relative;
+    left: 5px;
+    top: 15px;
+}
+
+.dataBase{
+    position: relative;
+    left: 11px;
+    top: 15px;
+}
+
+.mysql{
+    position: relative;
+    left: 5px;
+    top: 15px;
+}
+
+.mongodb{
+    position: relative;
+    left: 5px;
+    top: 15px;
+}
+
+.addPage{
+    position: relative;
+    left: 5px;
+    top: 30px;
+}
