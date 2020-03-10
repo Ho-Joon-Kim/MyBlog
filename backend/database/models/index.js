@@ -1,5 +1,8 @@
-const path = require('path');
-const Sequelize = require('sequelize');
+import path from 'path';
+import Sequelize from 'sequelize';
+import dotenv from 'dotenv';
+
+dotenv.config({ path: path.join(__dirname, 'path/to/database.env') })
 
 const env = process.env.NODE_ENV ||'development';
 const config = require(path.join(__dirname,'..','config','config.json'))[env];

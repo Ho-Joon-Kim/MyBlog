@@ -1,0 +1,356 @@
+body{
+  background: #35363A;
+}
+
+.switch{
+  position: absolute;
+  width: 50px;
+  height: 25px;
+  left: 254px;
+  top: 18px;
+}
+
+.ui_left{
+  position: absolute;
+
+  left: 252px;
+  top: 146px;
+}
+
+.ui_right{
+  position: absolute;
+
+  left: 1396px;
+  top: 146px;
+}
+
+.profilePicture{
+  position: relative;
+  width: 111px;
+  height: 111px;
+  
+  float: left;
+
+  background: #C4C4C4;
+}
+
+.name{
+  position: relative;
+  width: 147px;
+  height: 61px;
+  left: 35px;
+  top: 9px;
+  
+  font-family: Noto Sans KR;
+  font-style: normal;
+  font-weight: 100;
+  font-size: 40px;
+  line-height: 74px;
+  display: flex;
+  align-items: flex-end;
+  text-align: center;
+  
+  color: #FFFFFF;
+}
+
+.mailbutton{
+  position: relative;
+  width: 60px;
+  height: 32px;
+  left: 39px;
+  
+  font-family: Noto Sans KR;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 41px;
+  display: flex;
+  align-items: flex-end;
+  
+  float: left;
+
+  color: #FFFFFF;
+}
+
+.github{
+  position: relative;
+  width: 84px;
+  height: 32px;
+  left: 25px;
+
+  font-family: Noto Sans KR;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 41px;
+  display: flex;
+  align-items: flex-end;
+  text-align: right;
+  
+  color: #FFFFFF;
+}
+
+.introduce{
+  position: relative;
+  width: 328px;
+  height: 36px;
+  top: 64px;
+  
+  font-family: Noto Sans KR;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 32px;
+  display: flex;
+  align-items: flex-end;
+  
+  color: #FFFFFF;  
+}
+
+.bar{
+  width: 328px;
+  height: 0px;
+
+  border: 1px solid #6B6B6B;
+}
+
+.first{
+  position: relative;
+  top: 68px;
+}
+
+.second{
+  position: relative;
+  top: 237px;
+}
+
+.third{
+  position: relative;
+  top: 9px;
+}
+
+.forth{
+  position: relative;
+  top: 205px;
+}
+
+.fifth{
+  position: relative;
+  top: 401px;
+}
+
+.intdoduce_main{
+  position: relative;
+  width: 330px;
+  height: 65px;
+  top: 76px;
+  
+  font-family: Noto Sans KR;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 29px;
+  
+  color: #FFFFFF;
+}
+
+.many{
+  position: relative;
+  width: 347px;
+  height: 36px;
+  top: 228px;
+  
+  font-family: Noto Sans KR;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 32px;
+  display: flex;
+  align-items: flex-end;
+  
+  color: #FFFFFF;
+}
+
+.many_people{
+  position: relative;
+  width: 255px;
+  height: 25px;
+  margin-top: 5px;
+  
+  font-family: Noto Sans KR;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 29px;
+  
+  color: #FFFFFF;
+}
+
+.notice{
+  position: relative;
+  width: 347px;
+  height: 36px;
+  
+  font-family: Noto Sans KR;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 29px;
+  display: flex;
+  align-items: flex-end;
+  
+  color: #FFFFFF;
+}
+
+.notice_main{
+  position: relative;
+  width: 328px;
+  height: 25px;
+  margin-top: 8px;
+  
+  font-family: Noto Sans KR;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 25px;
+
+  color: #FFFFFF;
+}
+
+.popular{
+  position: relative;
+  width: 347px;
+  height: 36px;
+  top: 196px;
+  
+  font-family: Noto Sans KR;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 29px;
+  display: flex;
+  align-items: flex-end;
+  
+  color: #FFFFFF;
+}
+
+.popular_main{
+  position: relative;
+  width: 328px;
+  height: 25px;
+  top: 9px;
+  
+  font-family: Noto Sans KR;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 17px;
+  line-height: 25px;
+  
+  color: #FFFFFF;
+}
+
+.tags{
+  position: relative;
+  width: 347px;
+  height: 36px;
+  top: 392px;
+  
+  font-family: Noto Sans KR;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 29px;
+  display: flex;
+  align-items: flex-end;
+  
+  color: #FFFFFF;
+}
+
+.tags_main{
+  position: relative;
+  width: 328px;
+  height: 25px;
+  
+  font-family: Noto Sans KR;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 17px;
+  line-height: 25px;
+  
+  color: #0099FF;
+}
+
+
+.posts{
+  position: relative;
+
+  width: 700px;
+  height: 566px;
+  margin-top: 146px;
+  margin-left: 640px;
+}
+
+.posts_img{
+  width: 700px;
+  height: 379.29px;
+  position: relative;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.posts_name{
+  position: relative;
+  width: 700px;
+  height: 61px;
+  
+  font-family: Noto Sans KR;
+  font-style: bold;
+  font-weight: 500;
+  font-size: 35px;
+  line-height: 51px;
+  
+  color: #FFFFFF;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.posts_contents{
+  position: relative;
+  width: 700px;
+  height: 52px;
+  
+  font-family: Noto Sans KR;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 29px;
+  
+  color: #FFFFFF;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.posts_tags{
+  position: relative;
+  width: 101px;
+  height: 26px;
+  margin-top: 9px;
+  
+  font-family: Noto Sans KR;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 29px;
+
+  float: left;
+  
+  color: #0099FF;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.posts_bar{
+  position: relative;
+  width: 700px;
+  height: 0px;
+  top: 186.71px;
+  
+  border: 1px solid #6B6B6B;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
